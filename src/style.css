@@ -3,6 +3,11 @@
   margin-bottom: 20px;
 }
 
-.div_input {
+.label_input {
+  display: block;
   margin-bottom: 10px;
+}
+
+.label_input:last-child {
+  margin: 0;
 }
